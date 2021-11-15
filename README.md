@@ -6,7 +6,7 @@
 
 <h3 align="center">💁‍♂️ About Me </h3>
 <p align="center">
-  <a href="https://dear-cloud-414.notion.site/452d58765f4148d0ac456cbb79ee6612"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://dear-cloud-414.notion.site/452d58765f4148d0ac456cbb79ee6612"/></a>&nbsp
+  <a href="https://dear-cloud-414.notion.site/fa2d013072fc41c39c7a0cc4ca5eb2e1"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://dear-cloud-414.notion.site/452d58765f4148d0ac456cbb79ee6612"/></a>&nbsp
   <a href="mailto:leejinwoo1126@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4855chl@gmail.com"/></a>
 </p>
 

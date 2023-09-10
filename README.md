@@ -1,15 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=300&section=header&text=@LJW1126&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
-<div align="center">
-  <img src="./images/keyboard.gif"/>
-</div>
-
-<h3 align="center">💁‍♂️ About Me </h3>
-<p align="center">
-  <a href="https://dear-cloud-414.notion.site/fa2d013072fc41c39c7a0cc4ca5eb2e1"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://dear-cloud-414.notion.site/452d58765f4148d0ac456cbb79ee6612"/></a>&nbsp
-  <a href="mailto:leejinwoo1126@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4855chl@gmail.com"/></a>
-</p>
-
 <!--
   1. 주소에 + 는 %2B로 , 공백은 %20으로 치환하기 !
   [사이트 주소]
@@ -19,40 +9,10 @@
   3. capsule-render(헤더) >> https://github.com/kyechan99/capsule-render
   4. GitHub Stat >> https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#themes
 -->
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp 
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-F9A03C?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Vue%20CLI-376F6AB?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp 
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
-  <br/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
-  <br/>
-  <img src="https://img.shields.io/badge/Apache-d22128?style=flat-square&logo=Apache&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F9A03C?style=flat-square&logo=Apache%20Tomcat&logoColor=white"/>&nbsp
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-FF6A00?style=flat-square&logo=Linux&logoColor=white"/>&nbsp
-  <br/>
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/>
-</p>
 
 
 
-<div align="center" >
+<div align="left" style="margin-top : 20px">
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljw1126&show_icons=true)
 -->

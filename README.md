@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=300&section=header&text=@LJW1126&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
 <!--
   1. 주소에 + 는 %2B로 , 공백은 %20으로 치환하기 !
@@ -8,6 +7,7 @@
   2. BOJ 프로필 >> https://github.com/mazassumnida/mazassumnida
   3. capsule-render(헤더) >> https://github.com/kyechan99/capsule-render
   4. GitHub Stat >> https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#themes
+![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=300&section=header&text=@LJW1126&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 -->
 
 

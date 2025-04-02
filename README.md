@@ -20,7 +20,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejinwoo1126)](https://solved.ac/leejinwoo1126)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljw1126&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ljw1126&utm_content=farm">
   <img src="https://render.gitanimals.org/farms/ljw1126" width="600" height="300"/>

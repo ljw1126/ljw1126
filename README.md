@@ -36,20 +36,20 @@
 
 | 강의명                  | 기관  | 배운점               | 링크                                                                                                                                                                        |
 | -------------------- | --- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 토비의 스프링 부트 - 이해와 원리  | 인프런 | -  | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/b7c433eb77584be699caddb4f910a6a4?source=copy_link) [![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-329974-12179057) |
-| 토비의 스프링 6 - 이해와 원리   | 인프런 | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/6-8c9e8164b16a4a3c88d158cf7e378c86?source=copy_link) [![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-332188-12982553) |
-| 김영한의 스프링 핵심 원리 - 고급편 | 인프런 | -  | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/6aad423bcdae4832841f2a64d6d60648?source=copy_link) [![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-327901-12286047) |
-| 김영한의 실전 자바 - 고급 1편 멀티스레드와 동시성    | 인프런 | -  | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/1-be7c8dfbe22e440287943767c0956e33?source=copy_link) [![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-334352-12990807) |
+| 토비의 스프링 부트 - 이해와 원리  | 인프런 | -  | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/b7c433eb77584be699caddb4f910a6a4?source=copy_link) |
+| 토비의 스프링 6 - 이해와 원리   | 인프런 | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/6-8c9e8164b16a4a3c88d158cf7e378c86?source=copy_link) |
+| 김영한의 스프링 핵심 원리 - 고급편 | 인프런 | -  | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/6aad423bcdae4832841f2a64d6d60648?source=copy_link) |
+| 김영한의 실전 자바 - 고급 1편 멀티스레드와 동시성    | 인프런 | -  | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/1-be7c8dfbe22e440287943767c0956e33?source=copy_link) |
 
 
 
 ### 2. DB 접근 & JPA
 | 강의명                    | 기관  | 배운점              | 링크                                                                                                                                                                        |
 | ---------------------- | --- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 김영한의 스프링 DB 1편 - 데이터 접근 핵심 원리              | 인프런 | -      | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/1-2c5135e6b281403ab2446f410dc79b1d?source=copy_link) [![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-328723-12286046) |
-| 김영한의 스프링 DB 2편 - 데이터 접근 활용 기술            | 인프런 | -     | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/2-4a887aa0a42d426f91e10b920f46c474?source=copy_link) [![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-328990-12286045) |
-| 김영한의 자바 ORM 표준 JPA  프로그래밍 - 기본편        | 인프런 | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/ORM-JPA-d2a824979b9544818975af0e28eb9ceb?source=copy_link) [![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-324109-10322921) |
-| 김영한의 실전! 스프링 부트와 JPA 활용 2 | 인프런 | -   | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/ORM-JPA-d2a824979b9544818975af0e28eb9ceb?source=copy_link) [![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-324214-10322920) |
+| 김영한의 스프링 DB 1편 - 데이터 접근 핵심 원리              | 인프런 | -      | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/1-2c5135e6b281403ab2446f410dc79b1d?source=copy_link) |
+| 김영한의 스프링 DB 2편 - 데이터 접근 활용 기술            | 인프런 | -     | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/2-4a887aa0a42d426f91e10b920f46c474?source=copy_link) |
+| 김영한의 자바 ORM 표준 JPA  프로그래밍 - 기본편        | 인프런 | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/ORM-JPA-d2a824979b9544818975af0e28eb9ceb?source=copy_link) |
+| 김영한의 실전! 스프링 부트와 JPA 활용 2 | 인프런 | -   | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/ORM-JPA-d2a824979b9544818975af0e28eb9ceb?source=copy_link) |
 
 
 ### 3. 테스트 
@@ -65,14 +65,14 @@
 
 | 강의명             | 기관     | 배운점               | 링크                                                                                                  |
 | --------------- | ------ | ----------------- | --------------------------------------------------------------------------------------------------- |
-| 김영한의 모든 개발자를 위한 HTTP 웹 기본 지식    | 인프런    | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/HTTP-15f791faa0988024a984c163a96fc8fc?source=copy_link)[![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-326277-13369311) |
+| 김영한의 모든 개발자를 위한 HTTP 웹 기본 지식    | 인프런    | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/HTTP-15f791faa0988024a984c163a96fc8fc?source=copy_link) |
 | 널널한 개발자의 외워서 끝내는 네트워크 핵심 이론 - 기초 | 인프런 | -   | [![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-329534-12155344)                               |
 
 ### 5. 인프라 
 | 강의명             | 기관    | 기술 키워드                       | 링크                                                                                                  |
 | --------------- | ----- | ------------------------- | --------------------------------------------------------------------------------------------------- |
 | MySQL on Docker | 인프런 | `DB Replication`, `ProxySQL`, `Orchestrator`, `Monitoring`      | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/MySQL-on-Docker-9930916d2fd645859b07736442678f0d?source=copy_link) |
-| Redis on Docker | 자체 학습 | `Replication`, `Sentinel`, `Cluster`      | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Redis-on-Docker-128791faa0988013a48de6022ac394ed?source=copy_link) |
+| Redis on Docker | 자체 학습 | `Replication`, `Sentinel`, `Cluster`, `HAProxy`, `Predixy`      | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Redis-on-Docker-128791faa0988013a48de6022ac394ed?source=copy_link) |
 | REST API 문서 자동화 | 자체 학습 | `Spring Rest Docs`, `restdocs-api-spec`, `Swagger` | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/REST-API-159791faa0988000b2d3c85f0723a24b?source=copy_link) |
 
 
@@ -88,7 +88,7 @@
 | 책/스터디              | 내용               | 링크                                                                                                                                                                                                    |
 | ------------------ | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 리팩터링 2판            | `리팩터링은 개발 과정에서 함께 해야할 습관이다`| [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/refactoring2)                                                                                                     |
-| 헤드 퍼스트 디자인 패턴(개정판) | - `객체 협력 관계와 리팩터링을 항상 기본으로 한다`<br/> - `디자인상의 문제에 적합하다는 확신이 든다면 패턴을 도입한다` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/head-first-design-pattern) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Head-First-6a9275309e2641dcaa364d10a8f5b201?pvs=4) |
+| 헤드 퍼스트 디자인 패턴(개정판) | - `객체 협력 관계와 리팩터링을 항상 기본으로 한다`<br/> - `디자인상의 문제에 적합하다는 확신이 든다면 패턴을 도입한다` | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Head-First-6a9275309e2641dcaa364d10a8f5b201?pvs=4) |
 
 </details>
 

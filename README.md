@@ -69,26 +69,26 @@
 | 널널한 개발자의 외워서 끝내는 네트워크 핵심 이론 - 기초 | 인프런 | -   | [![Certificate](https://img.shields.io/badge/수료증-blue?style=flat)](https://www.inflearn.com/certificate/867314-329534-12155344)                               |
 
 ### 5. 인프라 
-| 강의명             | 기관    | 배운점                       | 링크                                                                                                  |
+| 강의명             | 기관    | 기술 키워드                       | 링크                                                                                                  |
 | --------------- | ----- | ------------------------- | --------------------------------------------------------------------------------------------------- |
-| MySQL on Docker | 인프런 | -      | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/MySQL-on-Docker-9930916d2fd645859b07736442678f0d?source=copy_link) |
-| Redis on Docker | 자체 학습 | -      | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Redis-on-Docker-128791faa0988013a48de6022ac394ed?source=copy_link) |
-| REST API 문서 자동화 | 자체 학습 | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/REST-API-159791faa0988000b2d3c85f0723a24b?source=copy_link) |
+| MySQL on Docker | 인프런 | `DB Replication`, `ProxySQL`, `Orchestrator`, `Monitoring`      | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/MySQL-on-Docker-9930916d2fd645859b07736442678f0d?source=copy_link) |
+| Redis on Docker | 자체 학습 | `Replication`, `Sentinel`, `Cluster`      | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Redis-on-Docker-128791faa0988013a48de6022ac394ed?source=copy_link) |
+| REST API 문서 자동화 | 자체 학습 | `Spring Rest Docs`, `restdocs-api-spec`, `Swagger` | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/REST-API-159791faa0988000b2d3c85f0723a24b?source=copy_link) |
 
 
 ### 6. 개인 프로젝트 
 | 프로젝트          | 설명             | 기술 키워드                  | 링크                                                                                                |
 | ------------- | -------------- | ----------------------- | ------------------------------------------------------------------------------------------------- |
-| 선착순 쿠폰 발급 시스템 | 대규모 동시성 처리     | -    | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/coupon-issue) |
-| 접속 대기열 시스템 | 서버 트래픽 분산 처리   | -      | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/waitingSystem) |
-| MSA 게시판       | 마이크로서비스 기반 게시판 | - | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/boardx) |
+| 선착순 쿠폰 발급 시스템 | 대규모 동시성 처리     | `Spring Boot`, `Redis`, `Kafka`   | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/coupon-issue) |
+| 접속 대기열 시스템 | 서버 트래픽 분산 처리   | `Spring Webflux`, `Redis`     | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/waitingSystem) |
+| MSA 게시판       | 마이크로서비스 기반 게시판 | `Spring Boot`, `Redis`, `Kafka` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/boardx) |
 
 
 ### 7. 스터디
 | 책/스터디              | 내용               | 링크                                                                                                                                                                                                    |
 | ------------------ | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 리팩터링 2판            | - | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/refactoring2)                                                                                                     |
-| 헤드 퍼스트 디자인 패턴(개정판) | -        | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/head-first-design-pattern) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Head-First-6a9275309e2641dcaa364d10a8f5b201?pvs=4) |
+| 리팩터링 2판            | `리팩터링은 개발 과정에서 함께 해야할 습관이다`| [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/refactoring2)                                                                                                     |
+| 헤드 퍼스트 디자인 패턴(개정판) | - `객체 협력 관계와 리팩터링을 항상 기본으로 한다`<br/> - `디자인상의 문제에 적합하다는 확신이 든다면 패턴을 도입한다` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/head-first-design-pattern) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Head-First-6a9275309e2641dcaa364d10a8f5b201?pvs=4) |
 
 </details>
 

@@ -36,29 +36,29 @@
 
 | 강의명                  | 기관  | 배운점               | 링크                                                                                                                                                                        |
 | -------------------- | --- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 토비의 스프링 부트 - 이해와 원리  | 인프런 | -  | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/b7c433eb77584be699caddb4f910a6a4?source=copy_link) |
-| 토비의 스프링 6 - 이해와 원리   | 인프런 | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/6-8c9e8164b16a4a3c88d158cf7e378c86?source=copy_link) |
-| 김영한의 스프링 핵심 원리 - 고급편 | 인프런 | -  | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/6aad423bcdae4832841f2a64d6d60648?source=copy_link) |
-| 김영한의 실전 자바 - 고급 1편 멀티스레드와 동시성    | 인프런 | -  | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/1-be7c8dfbe22e440287943767c0956e33?source=copy_link) |
+| 토비의 스프링 부트 - 이해와 원리  | 인프런 | 스프링 부트의 동작원리  | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/b7c433eb77584be699caddb4f910a6a4?source=copy_link) |
+| 토비의 스프링 6 - 이해와 원리   | 인프런 | SOLID 원칙과 DI, 데코레이터·프록시 패턴 | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/6-8c9e8164b16a4a3c88d158cf7e378c86?source=copy_link) |
+| 김영한의 스프링 핵심 원리 - 고급편 | 인프런 | Spring AOP 동작 원리 | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://www.notion.so/6aad423bcdae4832841f2a64d6d60648?source=copy_link) |
+| 김영한의 실전 자바 - 고급 1편 멀티스레드와 동시성    | 인프런 | 동시성 제어, 스레드 풀 동작원리 | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://www.notion.so/1-be7c8dfbe22e440287943767c0956e33?source=copy_link) |
 
 
 
 ### 2. DB 접근 & JPA
 | 강의명                    | 기관  | 배운점              | 링크                                                                                                                                                                        |
 | ---------------------- | --- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 김영한의 스프링 DB 1편 - 데이터 접근 핵심 원리              | 인프런 | -      | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/1-2c5135e6b281403ab2446f410dc79b1d?source=copy_link) |
-| 김영한의 스프링 DB 2편 - 데이터 접근 활용 기술            | 인프런 | -     | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/2-4a887aa0a42d426f91e10b920f46c474?source=copy_link) |
-| 김영한의 자바 ORM 표준 JPA  프로그래밍 - 기본편        | 인프런 | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/ORM-JPA-d2a824979b9544818975af0e28eb9ceb?source=copy_link) |
-| 김영한의 실전! 스프링 부트와 JPA 활용 2 | 인프런 | -   | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/ORM-JPA-d2a824979b9544818975af0e28eb9ceb?source=copy_link) |
+| 김영한의 스프링 DB 1편 - 데이터 접근 핵심 원리              | 인프런 | 트랜잭션 동작 원리   | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/1-2c5135e6b281403ab2446f410dc79b1d?source=copy_link) |
+| 김영한의 스프링 DB 2편 - 데이터 접근 활용 기술            | 인프런 | DB 접근 기술 5가지 | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/2-4a887aa0a42d426f91e10b920f46c474?source=copy_link) |
+| 김영한의 자바 ORM 표준 JPA  프로그래밍 - 기본편        | 인프런 | 영속성 컨텍스트, JPA 연관 관계 | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/ORM-JPA-d2a824979b9544818975af0e28eb9ceb?source=copy_link) |
+| 김영한의 실전! 스프링 부트와 JPA 활용 2 | 인프런 | N + 1 최적화, OSIV   | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/ORM-JPA-d2a824979b9544818975af0e28eb9ceb?source=copy_link) |
 
 
 ### 3. 테스트 
 | 강의명                    | 기관    | 배운점              | 링크                                                                                                                                                                        |
 | ---------------------- | ----- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TDD 클린코드 with Java 18기 | 넥스트스텝 | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/TDD-with-Java-18-a95440b8e21e4350aee5e58bb3185c70?source=copy_link) |
-| 자바 플레이그라운드 with TDD, 클린코드    | 넥스트스텝 | - | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/with-TDD-68379d92daab4ff9ae2111313db8968d?source=copy_link) |
-| Practical Testing: 실용적인 테스트 가이드      | 인프런  | -    | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Practical-Testing-efd1a966425d458d9377943428fdf62a?source=copy_link)                                                                       |
-| 클린코더스: 실전 객체 지향 프로그래밍과 TDD 마스터 클래스       | 인프런 | -   | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/clean-coder)                                                                       |
+| TDD 클린코드 with Java 18기 | 넥스트스텝 | 단위 테스트, OOP, 전략·팩토리 패턴 | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/TDD-with-Java-18-a95440b8e21e4350aee5e58bb3185c70?source=copy_link) |
+| 자바 플레이그라운드 with TDD, 클린코드    | 넥스트스텝 | 단위 테스트, OOP, 상태 패턴 | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/with-TDD-68379d92daab4ff9ae2111313db8968d?source=copy_link) |
+| Practical Testing: 실용적인 테스트 가이드      | 인프런  | JUni5, Mockito 테스트   | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Practical-Testing-efd1a966425d458d9377943428fdf62a?source=copy_link)                                                                       |
+| 클린코더스: 실전 객체 지향 프로그래밍과 TDD 마스터 클래스       | 인프런 | 리팩터링, OOP, SOLID   | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/clean-coder)                                                                       |
 
 
 ### 4. 네트워크 & HTTP 기초
@@ -81,7 +81,7 @@
 | ------------- | -------------- | ----------------------- | ------------------------------------------------------------------------------------------------- |
 | 선착순 쿠폰 발급 시스템 | 대규모 동시성 처리     | `Spring Boot`, `Redis`, `Kafka`   | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/coupon-issue) |
 | 접속 대기열 시스템 | 서버 트래픽 분산 처리   | `Spring Webflux`, `Redis`     | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/waitingSystem) |
-| MSA 게시판       | 마이크로서비스 기반 게시판 | `Spring Boot`, `Redis`, `Kafka` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/boardx) |
+| MSA 게시판       | 마이크로서비스 기반 게시판 | `Spring Boot`, `Redis`, `Kafka`, <br> `Transactional Outbox Pattern`, `Request Collapsing` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/boardx) |
 
 
 ### 7. 스터디

@@ -57,7 +57,7 @@
 | ---------------------- | ----- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | TDD 클린코드 with Java 18기 | 넥스트스텝 | 단위 테스트, OOP, 전략·팩토리 패턴 | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/TDD-with-Java-18-a95440b8e21e4350aee5e58bb3185c70?source=copy_link) |
 | 자바 플레이그라운드 with TDD, 클린코드    | 넥스트스텝 | 단위 테스트, OOP, 상태 패턴 | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/with-TDD-68379d92daab4ff9ae2111313db8968d?source=copy_link) |
-| Practical Testing: 실용적인 테스트 가이드      | 인프런  | JUni5, Mockito 테스트   | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Practical-Testing-efd1a966425d458d9377943428fdf62a?source=copy_link)                                                                       |
+| Practical Testing: 실용적인 테스트 가이드      | 인프런  | JUnit5, Mockito 테스트   | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Practical-Testing-efd1a966425d458d9377943428fdf62a?source=copy_link)                                                                       |
 | 클린코더스: 실전 객체 지향 프로그래밍과 TDD 마스터 클래스       | 인프런 | 리팩터링, OOP, SOLID   | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/clean-coder)                                                                       |
 
 

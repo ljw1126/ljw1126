@@ -89,6 +89,7 @@
 | ------------------ | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 리팩터링 2판            | `리팩터링은 개발 과정에서 함께 해야할 습관이다`| [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/refactoring2)                                                                                                     |
 | 헤드 퍼스트 디자인 패턴(개정판) | - `객체 협력 관계와 리팩터링을 항상 기본으로 한다`<br/> - `디자인상의 문제에 적합하다는 확신이 든다면 패턴을 도입한다` | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Head-First-6a9275309e2641dcaa364d10a8f5b201?pvs=4) |
+| 자바 웹 프로그래밍 - Next Step | - `스프링 컨테이너와 Dispatcher Servlet을 직접 구현` <br/> - `완벽한 설계가 없다는 것을 인정하고, 테스트와 리팩터링의 필요성을 공감`| [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/Next-Step-9df258aa66c74b05b9c5f4cfef8e6efc?source=copy_link) |
 
 </details>
 

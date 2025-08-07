@@ -82,6 +82,7 @@
 | 선착순 쿠폰 발급 시스템 | 대규모 동시성 처리     | `Spring Boot`, `Redis`, `Kafka`   | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/coupon-issue) |
 | 접속 대기열 시스템 | 서버 트래픽 분산 처리   | `Spring Webflux`, `Redis`     | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/waitingSystem) |
 | MSA 게시판       | 마이크로서비스 기반 게시판 | `Spring Boot`, `Redis`, `Kafka`, <br> `Transactional Outbox Pattern`, `Request Collapsing` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ljw1126/boardx) |
+| AWS Lambda 기반 서비스 | 이미지 리사이징, 주소 축약 서비스 | `AWS Lambda`, `API Gateway`, `S3`, `Route53` | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat\&logo=notion\&logoColor=white)](https://mammoth-anteater-cf1.notion.site/AWS-10c791faa09880f2b188fa9e85e3d4db?source=copy_link) |
 
 
 ### 7. 스터디
